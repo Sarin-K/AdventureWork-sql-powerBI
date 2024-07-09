@@ -1,0 +1,6 @@
+SELECT TOP (1000) [ProductCategoryKey]
+      -- ,[ProductCategoryAlternateKey]
+      ,[EnglishProductCategoryName]
+      -- ,[SpanishProductCategoryName]
+      -- ,[FrenchProductCategoryName]
+  FROM [AdventureWorksDW2022].[dbo].[DimProductCategory]
