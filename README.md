@@ -1,4 +1,4 @@
-# AdventureWork Sales Data Analyst
+# AdventureWork Sales Data Analysis
 
 ## Summary
 I analyze online and reseller sales of Adventure Work data from 2020-2023 using SQL (for data cleaning and transformation) and PowerBI (for data visualization). By combining Reseller Sales Data and Online Sales Data the distribution channel can be compared. In addition the sales trend in each year for the channels are also visualized. The data shows that Reseller sales contributed more to Adventure Work sales compared to online sales at 69% to 31% and sales of AdventureWork consistently peak around November.  
@@ -17,4 +17,5 @@ The top 3 countries are United State, Australia, and United Kingdom
 ### 5. Average Internet Sales per Order of Customer order descendingly
 Many Customer has the same average internet sales per order.
 ## Visualization
+The report shows total sales and how it compared to last year as well as other important insight.
 The PowerBI report using this dataset can be access here [PowerBI report](https://app.powerbi.com/view?r=eyJrIjoiYTQ0Y2U2ZTgtMGZmMy00N2UxLWFiNDEtMzAyNGIwZWI1MDA3IiwidCI6IjI3MWQ1ZTdiLTEzNTAtNGI5Ni1hYjg0LTUyZGJkYTRjZjQwYyIsImMiOjEwfQ%3D%3D)
